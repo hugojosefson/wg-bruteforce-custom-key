@@ -14,6 +14,13 @@ For example, on Debian/Ubuntu:
 sudo apt install wireguard-tools
 ```
 
+## Download
+
+```sh
+git clone https://github.com/hugojosefson/wg-bruteforce-custom-key
+cd wg-bruteforce-custom-key
+```
+
 ## Usage
 
 ```sh
